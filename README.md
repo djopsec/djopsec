@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @djopsec
+- 👀 I’m interested in security and infrastructure.
+- 🌱 I’m currently learning programing lanugages and fundementals. 
+- 💞️ I’m looking to collaborate on python and terraforming projects.
+- 📫 If you like to reach me reach out via LinkedIn. https://www.linkedin.com/in/nicolebushong
